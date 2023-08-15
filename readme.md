@@ -1,4 +1,4 @@
 # Welcome to my GitHub page
 * 👋 Hi, I'm @pestywanderer
-* 📚 I'm interested in System Administration, Automation, Networking.
-* 🌱 I'm currently learning PowerShell, Python, Ansible and other automation tooling
+* 📚 I'm interested in System Administration, Automation, Networking, NixOS, Linux
+* 🌱 I'm currently learning about Nix(OS and Package Manager), Terraform, Ansible and other automation tooling
